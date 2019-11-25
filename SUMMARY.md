@@ -4,6 +4,7 @@
 
 ## 2019
 
+* [October](2019/10.md)
 * [September](2019/9.md)
 * [August](2019/8.md)
 * [July](2019/7.md)
