@@ -2,6 +2,10 @@
 
 * [Goobi viewer Digests](README.md)
 
+## 2020
+
+* [January](2020/1.md)
+
 ## 2019
 
 * [December](2019/december.md)
