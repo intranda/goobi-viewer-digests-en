@@ -8,8 +8,8 @@ In the table of contents on the left you will find a list of the respective mont
 [10.md](2018/10.md)
 {% endcontent-ref %}
 
-{% content-ref url="2021/9-1.md" %}
-[9-1.md](2021/9-1.md)
+{% content-ref url="2021/9.md" %}
+[9.md](2021/9.md)
 {% endcontent-ref %}
 
 {% content-ref url="2021/8.md" %}
