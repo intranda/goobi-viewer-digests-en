@@ -4,6 +4,7 @@
 
 ## 2022
 
+* [March](2022/3.md)
 * [February](2022/2.md)
 * [January](2022/1.md)
 
