@@ -4,6 +4,7 @@
 
 ## 2022
 
+* [September](2022/9.md)
 * [August](2022/8.md)
 * [July](2022/7.md)
 * [June](2022/6.md)
