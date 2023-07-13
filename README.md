@@ -4,6 +4,10 @@ The Goobi viewer Digests provide a regular overview of developments in the Goobi
 
 In the table of contents on the left you will find a list of the respective months for which such a compilation already exists. And here you find a direct link to the latest 6 digests:
 
+{% content-ref url="2023/6.md" %}
+[6.md](2023/6.md)
+{% endcontent-ref %}
+
 {% content-ref url="2023/5.md" %}
 [5.md](2023/5.md)
 {% endcontent-ref %}
@@ -22,8 +26,4 @@ In the table of contents on the left you will find a list of the respective mont
 
 {% content-ref url="2023/1.md" %}
 [1.md](2023/1.md)
-{% endcontent-ref %}
-
-{% content-ref url="2021/12.md" %}
-[12.md](2021/12.md)
 {% endcontent-ref %}
